@@ -512,7 +512,7 @@
     <section id="contact" class="contact-section">
         <h2 class="section-title">חייגו אלינו, שריינו תאריך, ובואו לחגוג!</h2>
         <p class="address-text">📍 מושב עומר, רחוב נורית 2</p>
-        <a href="tel:0554307251" class="phone-number">055-4307251</a>
+        <a href="tel:0554307251" class="phone-number">52-619-4513</a>
         <a href="https://wa.me/972554307251?text=היי,%20אשמח%20לקבל%20פרטים%20נוספים%20ולשריין%20תאריך%20ב-La%20Vida%20Events%20בעומר" class="btn btn-whatsapp" target="_blank">לחצו כאן להודעה בוואטסאפ</a>
     </section>
 
