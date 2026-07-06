@@ -1,5 +1,4 @@
 # lavida
-<!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
     <meta charset="UTF-8">
